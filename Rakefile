@@ -11,6 +11,7 @@ require 'octopress/js_asset_manager'
 require 'rake/testtask'
 require 'colors'
 require 'open3'
+require 'tasks/backup'
 
 ### Configuring Octopress:
 ###   Under _config/ you will find:

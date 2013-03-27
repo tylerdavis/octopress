@@ -1,0 +1,7 @@
+#------------------------ #
+#      Backup Config      #
+# ----------------------- #
+
+bk_remote = "backup"
+bk_repo   = "git@github.com:johnsmith/blog_backup.git"
+bk_branch = "master"
